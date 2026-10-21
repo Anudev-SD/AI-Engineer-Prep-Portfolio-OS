@@ -1,0 +1,6 @@
+{
+  "name": "AI Engineer Prep & Portfolio OS",
+  "description": "Standalone career workbench for aspiring AI engineers to organize tasks, track portfolio projects, and master technical interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
